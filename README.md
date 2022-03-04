@@ -20,9 +20,9 @@
 </a>
 <br />
 
-<p>
+<!-- <p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nistha-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Nistha-tech" /> </p>
-</p>
+</p> -->
 
 <h3> About Me  🚀 </h3>
 <p>
