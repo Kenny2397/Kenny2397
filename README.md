@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 -👀 I love Web and mobile development.
 
--🌱 I’m a full stack Python, Java, Mern developer.
+-🌱 I’m a Full Stack Python, Java, Mern developer.
 
 -📫 How to reach me: kenny.luque.t@uni.pe
