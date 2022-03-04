@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--👋 Hi, I’m Kenny Luque Ticona
+-👋 Hi, I’m Kenny Julián Luque Ticona
 
 -👀 I love Web and mobile development.
 
