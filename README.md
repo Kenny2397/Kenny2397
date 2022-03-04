@@ -4,7 +4,7 @@
 **Kenny2397/Kenny2397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-👋 Hi, I’m Kenny Luque Ticona
+-👋 Hi, I’m Kenny Luque Ticona
 👀 I love Web and mobile development.
 🌱 I’m a full stack Python, Java, Mern developer.
 📫 How to reach me: kenny.luque.t@uni.pe
@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-👋 Hi, I’m Kenny Luque Ticona
+-👀 I love Web and mobile development.
+-🌱 I’m a full stack Python, Java, Mern developer.
+-📫 How to reach me: kenny.luque.t@uni.pe
