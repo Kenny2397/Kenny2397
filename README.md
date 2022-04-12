@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/kennyluquet">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color:white;" />
 </a>
-<a href="https://twitter.com/">
+<a href="https://twitter.com/kennyluque23">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:kenny.luque.t@uni.pe">
