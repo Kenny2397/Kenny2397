@@ -15,9 +15,9 @@
 <a href="mailto:kenny.luque.t@uni.pe">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="#">
+<!--<a href="#">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+</a>-->
 <br />
 
 <!-- <p>
