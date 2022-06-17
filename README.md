@@ -1,10 +1,3 @@
-
-
-<!--
-**Kenny2397/Kenny2397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
 ## Hey, I'm Kenny!
 <a href="https://www.linkedin.com/in/kennyluquet">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color:white;" />
