@@ -23,7 +23,7 @@
 
 <h3> About Me  🚀 </h3>
 <p>
-🔭 I'm a passionate Software Developer with a knack of learning something new everyday.
+🔭 Software Developer.
 </p><p>
 📎 In my free time I love to learn about latest technologies and work on my logic building skills.
 </p><p>
